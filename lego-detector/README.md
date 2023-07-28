@@ -2,7 +2,7 @@
 
 Репозиторий модели yolov5: https://github.com/ultralytics/yolov5. Скачайте ее и поместите в папку lego-detector (туда же, где находится exe-файл).
 
-Файл с весами best.pt нужно перенести из lego-detector в недавно добавленную модель yolov5. То есть в каталог lego-detector/yolov5.
+Файл с весами best.pt нужно перенести из lego-detector в добавленную папку с моделью yolov5. То есть в каталог lego-detector/yolov5.
 
 Картинки из папки legoImages нужны для пользовательского интерфейса. Картинки из LegoSet служат тестовым набором данных.
 
